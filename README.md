@@ -1,0 +1,1 @@
+This is a modern, responsive News Aggregator web application built using React, featuring routing, state management, and component-based architecture. It supports Docker for containerization and is deployable to Netlify.
